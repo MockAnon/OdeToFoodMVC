@@ -1,0 +1,21 @@
+﻿@model IEnumerable<OdeToFood.Data.Models.Restaurant>
+
+<h2>Welcome to ASP.NET MVC @ViewData["Version"] on @ViewData["Runtime"]!</h2>
+
+
+<p> Hello World </p>
+
+@DateTime.Now.Year
+
+<div>
+    There are @Model.Count() number of restaurants in the database.
+
+</div>
+
+<ul>
+
+    @foreach (var restaurant in Model)
+    {
+        <li> @restaurant.Name </li>
+    }
+</ul>
