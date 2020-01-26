@@ -1,0 +1,4 @@
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Data/bin/Debug/OdeToFood.Data.dll
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Data/bin/Debug/OdeToFood.Data.pdb
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Data/obj/Debug/OdeToFood.Data.dll
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Data/obj/Debug/OdeToFood.Data.pdb

@@ -1,44 +1,38 @@
-﻿<Properties StartupConfiguration="{96556922-8CFB-49D3-8069-C5F2967E0423}|">
+﻿<Properties StartupConfiguration="{EFD95B64-7C7C-4256-9932-12861614971B}|">
   <MonoDevelop.Ide.ItemProperties.OdeToFood.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood.Web/Global.asax.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood.Web/Controllers/RestaurantsController.cs">
     <Files>
-      <File FileName="OdeToFood.Web/Controllers/HomeController.cs" Line="15" Column="49" />
-      <File FileName="OdeToFood2.Data/Services/InMemoryRestaurantData.cs" Line="1" Column="1" />
-      <File FileName="OdeToFood.Web/Global.asax.cs" Line="13" Column="34" />
-      <File FileName="OdeToFood.Web/App_Start/ContainerConfig.cs" Line="20" Column="1" />
-      <File FileName="OdeToFood.Web/Global.asax" Line="1" Column="1" />
+      <File FileName="OdeToFood.Web/Views/Restaurants/Create.cshtml" Line="44" Column="1" />
+      <File FileName="OdeToFood.Web/Controllers/RestaurantsController.cs" Line="41" Column="18" />
+      <File FileName="OdeToFood.Web/Models/GreetingViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OdeToFood" expanded="True">
+            <Node name="OdeToFood.Data" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
             <Node name="OdeToFood.Web" expanded="True">
-              <Node name="App_Start" expanded="True" />
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="RestaurantsController.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Greeting" expanded="True" />
-                <Node name="Home" expanded="True" />
-              </Node>
-              <Node name="Global.asax" expanded="True">
-                <Node name="Global.asax.cs" selected="True" />
-              </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="OdeToFood" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>OdeToFood.Data/OdeToFood.Data.csproj</String>
+    <String>OdeToFood.Web.Tests/OdeToFood.Web.Tests.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/Models/GreetingViewModel.cs" relfile="OdeToFood.Web/Models/GreetingViewModel.cs" line="3" column="1" />
+      <Breakpoint file="/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/Models/GreetingViewModel.cs" relfile="OdeToFood.Web/Models/GreetingViewModel.cs" line="4" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

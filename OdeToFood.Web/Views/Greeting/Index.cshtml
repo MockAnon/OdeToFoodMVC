@@ -1,14 +1,8 @@
-﻿@model OdeToFood.Web.Models.GreetingViewModel
+﻿@model OdeToFood.Web.Models.GreetingViewModel   
+@{
+    ViewBag.Title = "Index";
+}
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
-    GREEING
-    @Model.Message!
+<h2>Index</h2>
 
-</body>
-</html>
+@Model.Message, @Model.Name!

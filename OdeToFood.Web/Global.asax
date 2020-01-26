@@ -1,1 +1,3 @@
-﻿<%@ Application Inherits="OdeToFood.Web.Global" %>
+﻿<%@ Application Codebehind="Global.asax.cs" 
+                Inherits="OdeToFood.Web.MvcApplication" 
+                Language="C#" %>

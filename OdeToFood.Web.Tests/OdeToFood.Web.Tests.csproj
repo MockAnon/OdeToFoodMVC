@@ -66,12 +66,6 @@
     <Compile Include="Controllers\HomeControllerTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="OdeToFood.Web">
-      <Project>{96556922-8CFB-49D3-8069-C5F2967E0423}</Project>
-      <Name>OdeToFood.Web</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

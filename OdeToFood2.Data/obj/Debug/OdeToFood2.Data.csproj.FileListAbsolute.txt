@@ -1,5 +1,0 @@
-/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood2.Data/obj/Debug/OdeToFood2.Data.csprojAssemblyReference.cache
-/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood2.Data/bin/Debug/OdeToFood2.Data.dll
-/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood2.Data/bin/Debug/OdeToFood2.Data.pdb
-/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood2.Data/obj/Debug/OdeToFood2.Data.dll
-/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood2.Data/obj/Debug/OdeToFood2.Data.pdb
