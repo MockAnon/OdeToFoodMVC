@@ -1,4 +1,4 @@
-﻿@model IEnumerable<OdeToFood.Data.Models.Restaurant>
+﻿@model List<OdeToFood.Components.InventoryItem>
 
 @{
     ViewBag.Title = "Home Page";
@@ -20,7 +20,14 @@
     math = 72;
 }
 
-@*@await Component.InvokeAsync("InventoryWidget")*@
+@foreach(var item in Model)
+{
+    <tr>
+        <td> item.Name </td>
+        <td><a href="#">item.Count</a></td>
+    </tr>
+
+}
 
 
 <script>
