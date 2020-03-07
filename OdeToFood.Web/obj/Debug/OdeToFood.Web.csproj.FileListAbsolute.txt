@@ -87,3 +87,11 @@
 /Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/obj/Debug/OdeToFood.Web.csproj.CopyComplete
 /Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/obj/Debug/OdeToFood.Web.dll
 /Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/obj/Debug/OdeToFood.Web.pdb
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/bin/BouncyCastle.Crypto.dll
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/bin/Google.Protobuf.dll
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/bin/MySql.Data.dll
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/bin/Renci.SshNet.dll
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/bin/Ubiety.Dns.Core.dll
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/bin/Google.Protobuf.xml
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/bin/Renci.SshNet.xml
+/Users/jevans/code/dotnetMVC/OdeToFood/OdeToFood.Web/bin/MySql.Data.xml
